@@ -1,0 +1,9 @@
+body{background-color: black;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;}
+
+h1{color: green;
+font-family: Orbitron;
+font-size: 60px;}
